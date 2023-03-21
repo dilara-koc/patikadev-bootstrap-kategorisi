@@ -1,0 +1,38 @@
+body {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.bg-yellow {
+    background-color: #FFC017;
+    
+}
+
+.f-times {
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+.c-yellow {
+    color:gold
+}
+
+.c-dark {
+    text-decoration: none;
+    color: black;
+}
+
+.br-bttm {
+    border-bottom: 1px solid rgba(0,0,0,0.8); 
+}
+
+.br-bttm-2 {
+    border-bottom: 1px solid rgba(230, 230, 230, 1); 
+}
+
+.btnout1 {
+    border-color: rgba(230, 230, 230, 1) ;
+}
+
+.sidebr {
+    position: sticky;
+    top: 120px;
+}
